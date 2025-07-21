@@ -81,10 +81,10 @@ task_manager_backend/
 🧪 Testing the API :
 
 You can test the API using:
-1.Postman
-2.Insomnia
-3.curl
-4.or directly from the React frontend
+  1.Postman
+  2.Insomnia
+  3.curl
+  4.or directly from the React frontend
 
 📝 License :
 
