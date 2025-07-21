@@ -50,16 +50,21 @@ task_manager_backend/
 
 🚀 Getting Started:
 1. Clone the repository
+   
           a. git clone https://github.com/harshrief/task-manager-backend.git
           b. cd task-manager-backend
 2. Create and activate virtual environment
-          a.python -m venv venv
-          b.source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   
+          a. python -m venv venv
+          b. source venv/bin/activate  # On Windows use: venv\Scripts\activate
 3. Install dependencies
+   
           a. pip install -r requirements.txt
 4. Run migrations
+   
           a. python manage.py migrate
 5. Start the development server
+    
           a. python manage.py runserver
           b. Your backend will be running at: http://127.0.0.1:8000/api/
 
